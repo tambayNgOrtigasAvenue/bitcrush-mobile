@@ -1,0 +1,67 @@
+{
+    "Binary": {
+        "meteors_shot": 0,
+        "wave_count": 0
+    },
+    "Debug": {
+        "Java": {
+            "Easy": {
+                "high_score": 0,
+                "correct": 0,
+                "wrong": 0
+            },
+            "Intermediate": {
+                "high_score": 0,
+                "correct": 0,
+                "wrong": 0
+            },
+            "Hard": {
+                "high_score": 0,
+                "correct": 0,
+                "wrong": 0
+            }
+        },
+        "Python": {
+            "Easy": {
+                "high_score": 0,
+                "correct": 0,
+                "wrong": 0
+            },
+            "Intermediate": {
+                "high_score": 0,
+                "correct": 0,
+                "wrong": 0
+            },
+            "Hard": {
+                "high_score": 0,
+                "correct": 0,
+                "wrong": 0
+            }
+        },
+        "JavaScript": {
+            "Easy": {
+                "high_score": 0,
+                "correct": 0,
+                "wrong": 0
+            },
+            "Intermediate": {
+                "high_score": 0,
+                "correct": 0,
+                "wrong": 0
+            },
+            "Hard": {
+                "high_score": 0,
+                "correct": 0,
+                "wrong": 0
+            }
+        }
+    },
+    "Fill in the Blanks": {
+        "normal_mobs_shot": 0,
+        "bosses_shot": 0,
+        "wave_count": 0,
+        "correct_prompts": 0,
+        "wrong_prompts": 0,
+        "time_record": 0
+    }
+}
